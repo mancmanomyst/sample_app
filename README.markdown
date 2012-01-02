@@ -1,0 +1,1 @@
+# Rails Tutorial Chapter 3 - Sample App
